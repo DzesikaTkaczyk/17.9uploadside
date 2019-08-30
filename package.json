@@ -1,5 +1,5 @@
 {
-  "name": "17.9",
+  "name": "17.9uploadside",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DzesikaTkaczyk/17.9.git"
+    "url": "git+https://github.com/DzesikaTkaczyk/17.9uploadside.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DzesikaTkaczyk/17.9/issues"
+    "url": "https://github.com/DzesikaTkaczyk/17.9uploadside/issues"
   },
-  "homepage": "https://github.com/DzesikaTkaczyk/17.9#readme",
+  "homepage": "https://github.com/DzesikaTkaczyk/17.9uploadside#readme",
   "dependencies": {
     "colors": "^1.3.3",
     "formidable": "^1.2.1"
